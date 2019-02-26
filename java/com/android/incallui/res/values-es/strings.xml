@@ -76,4 +76,12 @@
     <string name="video_call_lte_to_wifi_failed_title" msgid="1343446383310594456">"No se ha podido cambiar a la red Wi-Fi"</string>
     <string name="video_call_lte_to_wifi_failed_message" msgid="3703332569739939335">"La videollamada seguirá a través de la red móvil. Es posible que se apliquen cargos por el uso de datos."</string>
     <string name="video_call_lte_to_wifi_failed_do_not_show" msgid="7609115874511223150">"No volver a mostrar"</string>
+
+    <string name="call_recording_failed_message">Error al grabar llamada</string>
+    <string name="call_recording_file_location">Grabación guardada en <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Grabar llamada</string>
+    <string name="onscreenCallRecordingText">Grabando llamada - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">Parar grabación</string>
+    <string name="recording_time_text">Grabando</string>
+    <string name="recording_warning_title">Activar grabación de llamada?</string>
 </resources>
